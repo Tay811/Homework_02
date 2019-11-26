@@ -1,0 +1,76 @@
+body {
+    width: 900px;
+    margin: auto;
+    border-radius: 6px;
+    padding: 24px 15px;   
+}
+
+div {
+    font-size: 20px;
+    height: 80px;
+    margin-bottom: 1em; 
+}
+#leftSidebar {
+    background-color: rgb(217, 243, 72);
+    float: left;
+    width: 445px;
+
+}
+#rightSidebar {
+    background-color: rgb(98, 185, 71);
+    float: right;
+    width: 445px;
+}
+#block01 {
+    background-color: rgb(163, 122, 122);
+    height: 170px;
+    width: 290px;
+    float: left;
+}
+#block02 {
+    background-color: rgb(85, 79, 79);
+    height: 170px;
+    width: 290px;
+    float: right;
+}
+#block03 {
+    background-color: rgb(114, 92, 236);
+    height: 300px;
+    width: 900px;
+    float: auto;
+    margin-top: 100px;
+}
+#block04 {
+    background-color: rgb(178, 58, 182);
+    height: 170px;
+    width: 300px;
+    margin-left: 300px;
+    margin-top: 0px;
+}
+#footer{ 
+    background-color: rgb(228, 47, 122);
+}
+#a{
+    background-color: rgb(58, 184, 152);
+    float: left;
+    width: 215px;
+    margin: 5px;
+} 
+#b{
+    background-color: rgb(24, 137, 145);
+    margin: 5px;
+    float: left;
+    width: 215px; 
+}
+#c {
+    background-color: rgb(154, 236, 76);
+    float: left;
+    width: 215px;
+    margin: 5px;
+}
+#d{
+    background-color: rgb(87, 64, 219);
+    float: right;
+    width: 215px;
+    margin: 5px;
+}
